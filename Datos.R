@@ -1,2 +1,2 @@
 summary(iris)
-read(iris)
+head(iris)
