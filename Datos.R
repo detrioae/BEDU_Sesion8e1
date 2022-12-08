@@ -1,1 +1,2 @@
 summary(iris)
+read(iris)
